@@ -109,7 +109,7 @@ function removeDetails(){
 }
 
 
-// fetch('https://www.themealdb.com/api/json/v1/1/filter.php?a=american')
+// fetch('https://api.coinranking.com/v2/coins')
 // .then((res) =>{
 //     return res.json()
 // })
