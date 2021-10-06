@@ -1,2 +1,2 @@
 # RecipeApp
- Seacrh recipe by their country name like: Inidan, American..ect
+ Seacrh recipe by their country name like: Inidan, American..etc
